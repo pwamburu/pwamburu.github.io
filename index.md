@@ -4,17 +4,17 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/https://colab.research.google.com/drive/1BbZ5bwqpIu_qa_eMdGfCgop3RCMN1zUv?usp=sharing)
+[Lending CLub Loan Default Prediction Using Machine Learning Classification Techniques](/https://pwamburu.github.io/blob/main/portfolio/Lending_Club_Loan_Default_Prediction_Using_Classification_Techniques.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Spotify Track Popularity Prediction and Segmentation](https://github.com/pwamburu/pwamburu.github.io/blob/main/portfolio/Spotify_Track_Popularity_Prediction_and_Segmentation.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[African Telco Customer Churn Prediction](https://github.com/pwamburu/pwamburu.github.io/blob/main/portfolio/Predicting_Telco_Customer_Churn_Using_Classification_Techniques.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
