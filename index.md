@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Lending CLub Loan Default Prediction Using Machine Learning Classification Techniques](https://github.com/pwamburu/pwamburu.github.io/blob/main/portfolio/Lending%20Club%20Loan%20Default%20Prediction/Lending_Club_Loan_Default_Prediction_Using_Classification_Techniques.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
