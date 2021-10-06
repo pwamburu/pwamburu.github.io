@@ -4,10 +4,10 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/https://colab.research.google.com/drive/1BbZ5bwqpIu_qa_eMdGfCgop3RCMN1zUv?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-https://colab.research.google.com/drive/1BbZ5bwqpIu_qa_eMdGfCgop3RCMN1zUv?usp=sharing
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
