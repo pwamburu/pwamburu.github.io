@@ -26,5 +26,4 @@
 [Wine Cultivar Cluster Analysis](https://github.com/pwamburu/pwamburu.github.io/blob/main/portfolio/Wine%20Cultivar%20Cluster%20Analsyis/Wine_Cultivar_Cluster_Analysis_Using_Unsupervised_ML_Clustering_Techniques.md)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
